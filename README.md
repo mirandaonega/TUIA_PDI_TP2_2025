@@ -12,9 +12,17 @@
 
 Clasifica automaticamente en una imagen los objetos que se encuentran en ella. 
 
+```bash
+python prob1.py
+```
+
 #### Problema 2 - Detección de patentes
 
 Detecta patentes y segmenta sus caracteres.
+
+```bash
+python prob2.py
+```
 
 ### Archivos del proyecto
 - Imágenes de los autos: "imgi.png" con i c [01,12].
